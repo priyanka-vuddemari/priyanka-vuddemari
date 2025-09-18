@@ -1,6 +1,6 @@
 ## Hi there Im Priyanka 👋
 
- 🔭 I’m currently working Test Automation and Test Ops Specialist
+ 🔭 I’m currently working as a Test Automation and Test Ops Specialist
  
  🌱 I’m currently learning Cloud automation tools
  
