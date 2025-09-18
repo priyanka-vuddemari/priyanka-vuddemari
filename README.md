@@ -1,4 +1,4 @@
-## Hi there Im Priyanka 👋
+## Hi there I'm Priyanka 👋
 
  🔭 I’m currently working as a Test Automation and Test Ops Specialist
  
