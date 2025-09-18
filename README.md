@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there Im Priyanka 👋
+
+ 🔭 I’m currently working Test Automation and Test Ops Specialist
+ 
+ 🌱 I’m currently learning Cloud automation tools
+ 
+ 🎉 When I’m not automating tests or exploring DevOps, I’m learning Japanese 🎌 and hoping to watch Anime without subtitles one day🤞
+ 
+💡 Automation isn’t just about testing — it’s about engineering smarter ways to deliver quality.
+
 
 <!--
-**priyanka-vuddemari/priyanka-vuddemari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+--!>
