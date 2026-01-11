@@ -2,7 +2,7 @@
 
  🔭 I’m currently working as a Automation and Test Ops Specialist
  
- 🌱 I’m currently learning Devops annd Cloud Automation tools
+ 🌱 I’m currently learning Devops and Cloud Automation tools
  
  🎉 When I’m not automating tests or exploring DevOps,I’m learning Japanese🎌 and hoping to watch anime without subtitles one day
  
