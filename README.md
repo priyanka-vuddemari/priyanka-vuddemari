@@ -5,7 +5,8 @@
  🌱 I’m currently learning Devops and Cloud Automation tools
  
  🎉 When I’m not automating tests or exploring DevOps,I’m learning Japanese🎌 and hoping to watch anime without subtitles one day
- 
+## 🏆 Certifications & Credentials
+🔗 [Credly Profile](https://www.credly.com/users/priyanka-vuddemari) 
 <!--
 💡 Automation isn’t just about testing — it’s about engineering smarter ways to deliver quality.
 
